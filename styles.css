@@ -9,6 +9,13 @@
 #sand {
     display:none;
     }
+    
+#snap{
+    background:#9400D3;
+    border:10px dashed;
+    }
+
+
 .spells {
     color:purple;
     align-self: center;
@@ -36,7 +43,10 @@ img {
 }
 
 body {
-    background: black;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2-XG_D9o19qydmwWikNalo54sbPdT0hBOca0bkAj116l4XnmB);
+    background-repeat:no-repeat;
+    background-size:1800px 4200px;
+    
 }
 
 .ctrl {
