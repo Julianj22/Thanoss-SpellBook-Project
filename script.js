@@ -31,5 +31,8 @@ $("#time").click(function(){
   $("#yeet").fadeIn();
 });
 
-
+$("#snap").click(function(){
+    $("html").fadeOut();
+});
+    
 
