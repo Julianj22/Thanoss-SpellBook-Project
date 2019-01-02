@@ -1,0 +1,51 @@
+#iron_man2 {
+    display: none;
+}
+
+#yeet {
+    display:none;
+}
+
+#sand {
+    display:none;
+    }
+.spells {
+    color:purple;
+    align-self: center;
+    margin: 20px;
+    font-family: 'Major Mono Display', monospace;
+    font-size: 40px;
+}
+
+button {
+    width: 200px;
+    align-self: center;
+}
+
+h1 {
+    font-family: 'Major Mono Display', monospace;
+    font-size: 60px;
+    color: purple;
+    text-align: center;
+}
+
+img {
+    height: 400px;
+    align-self: center;
+    margin: 20px;
+}
+
+body {
+    background: black;
+}
+
+.ctrl {
+    display: flex;
+    flex-direction: column;
+}
+
+#crying {
+    font-size:120px;
+    text-align: center;
+    display: none;
+}
